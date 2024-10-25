@@ -261,8 +261,8 @@ class User {
 
 }
 
-let user = new User("보라");
-alert(user.name); // 보라
+let user = new User("보라보라");
+alert(user.name); // 보라보라
 
 user = new User(""); // 이름이 너무 짧습니다.
 ```
